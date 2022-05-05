@@ -23,4 +23,4 @@ class Nau:
     def pintar(self):
         print('xxx')
         print('-----')
-        print('11111111')
+        print('000000')
