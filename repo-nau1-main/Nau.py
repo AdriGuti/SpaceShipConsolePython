@@ -22,5 +22,5 @@ class Nau:
 
     def pintar(self):
         print('xxx')
-	print('-----')
-	print('*    *')
+        print('-----')
+        print('*    *')
